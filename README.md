@@ -1,13 +1,13 @@
-## 🎁 Simple Ecommerce Cart Application(https://github.com/Praveen7j7/ShoppingCart/)
+## 🎁 Simple Ecommerce Cart Application  (https://github.com/Praveen7j7/ShoppingCart/)
 
 <p align="center">
   <img src="./readme-banner.png" alt="Project Banner">
 </p>
 
 ## Basic Overview - [Live Demo]()
-
-<p align="left">
-  <img src="./work-in-the-netherlands.png" width="380" height="90" alt="Work in the Netherlands">
+<p align="center">
+  
+  Deployment link
 </p>
 
 ✈️ [Follow Praveen Jha](https://www.linkedin.com/in/praveenjha07/)
