@@ -1,25 +1,23 @@
-## 🛍️ Simple ecommerce cart application [![CircleCI](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart.svg?style=svg)](https://circleci.com/gh/jeffersonRibeiro/react-shopping-cart)
+## 🎁 Simple Ecommerce Cart Application(https://github.com/Praveen7j7/ShoppingCart/)
 
 <p align="center">
-
-  <img src="./readme-banner.png">
+  <img src="./readme-banner.png" alt="Project Banner">
 </p>
 
-## Basic Overview - [Live Demo](https://react-shopping-cart-67954.firebaseapp.com/)
+## Basic Overview - [Live Demo]()
 
 <p align="left">
-
-  <img src="./work-in-the-netherlands.png" width="380" height="90">
+  <img src="./work-in-the-netherlands.png" width="380" height="90" alt="Work in the Netherlands">
 </p>
 
-✈️ [Follow Jeremy Akeze](www.linkedin.com/in/praveenjha07)
+✈️ [Follow Praveen Jha](https://www.linkedin.com/in/praveenjha07/)
 
-This simple shopping cart prototype shows how React with Typescript, React hooks, react Context and Styled Components can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications.
+This simple shopping cart prototype shows how React with TypeScript, React hooks, React Context, and Styled Components can be used to build a friendly user experience with instant visual updates and scalable code in eCommerce applications.
 
-#### Features
+### Features
 
-- Add and remove products from the floating cart using Context Api
-- Filter products by available sizes using Context Api
+- Add and remove products from the floating cart using Context API
+- Filter products by available sizes using Context API
 - Responsive design
 
 <!--
@@ -32,21 +30,19 @@ Try playing with the code on CodeSandbox :)
 
 ## Build/Run
 
-#### Requirements
+### Requirements
 
 - Node.js
 - NPM
 
-```javascript
-
-/* First, Install the needed packages */
+```sh
+# First, install the needed packages
 npm install
 
-/* Then start the React app */
+# Then start the React app
 npm start
 
-/* To run the tests */
+# To run the tests
 npm run test
-
 ```
 
